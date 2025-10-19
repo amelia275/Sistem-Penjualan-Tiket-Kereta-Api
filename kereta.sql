@@ -1,0 +1,5 @@
+CREATE TABLE Kereta (
+    ID_Kereta VARCHAR(10) PRIMARY KEY,
+    Nama_Kereta VARCHAR(100) NOT NULL,
+    Tipe_Layanan VARCHAR(50) NOT NULL
+);

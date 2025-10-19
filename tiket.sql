@@ -1,0 +1,13 @@
+CREATE TABLE Tiket (
+    ID_Tiket VARCHAR(10) PRIMARY KEY,
+    ID_Kursi VARCHAR(10) NOT NULL,
+    ID_Perjalanan VARCHAR(10) NOT NULL,
+    ID_Transaksi VARCHAR(10) NOT NULL,
+    Status_Tiket VARCHAR(50),
+    FOREIGN KEY (ID_Kursi) REFERENCES Kursi(ID_Kursi)
+        ON UPDATE CASCADE ON DELETE RESTRICT,
+    FOREIGN KEY (ID_Perjalanan) REFERENCES Jadwal_Perjalanan(ID_Perjalanan)
+        ON UPDATE CASCADE ON DELETE RESTRICT,
+    FOREIGN KEY (ID_Transaksi) REFERENCES Transaksi(ID_Transaksi)
+        ON UPDATE CASCADE ON DELETE CASCADE
+);

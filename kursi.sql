@@ -1,0 +1,7 @@
+CREATE TABLE Kursi (
+    ID_Kursi VARCHAR(10) PRIMARY KEY,
+    Nomor_Kursi VARCHAR(10) NOT NULL,
+    ID_Gerbong VARCHAR(10) NOT NULL,
+    FOREIGN KEY (ID_Gerbong) REFERENCES Gerbong(ID_Gerbong)
+        ON UPDATE CASCADE ON DELETE CASCADE
+);

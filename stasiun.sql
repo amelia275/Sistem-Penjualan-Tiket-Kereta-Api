@@ -1,0 +1,5 @@
+CREATE TABLE Stasiun (
+    ID_Stasiun VARCHAR(10) PRIMARY KEY,
+    Nama_Stasiun VARCHAR(100) NOT NULL,
+    Lokasi VARCHAR(100) NOT NULL
+);

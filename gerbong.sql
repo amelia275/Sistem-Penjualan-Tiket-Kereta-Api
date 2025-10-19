@@ -1,0 +1,8 @@
+CREATE TABLE Gerbong (
+    ID_Gerbong VARCHAR(10) PRIMARY KEY,
+    Nomor_Gerbong VARCHAR(10) NOT NULL,
+    Kapasitas INT NOT NULL,
+    ID_Kereta VARCHAR(10) NOT NULL,
+    FOREIGN KEY (ID_Kereta) REFERENCES Kereta(ID_Kereta)
+        ON UPDATE CASCADE ON DELETE CASCADE
+);
