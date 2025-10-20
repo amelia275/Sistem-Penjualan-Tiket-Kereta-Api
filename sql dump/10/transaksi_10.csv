@@ -1,0 +1,11 @@
+ID_Transaksi,ID_Petugas,Nama_Pembeli,Tgl_Transaksi,Metode_Transaksi
+TRX0000001,PTG00003,"Dt. Uda Tamba, S.Kom",2025-10-03,QRIS
+TRX0000002,PTG00006,Mulyanto Jailani,2025-07-10,Transfer
+TRX0000003,PTG00005,"Dr. Tasdik Wasita, M.Ak",2025-03-05,Tunai
+TRX0000004,PTG00010,Wahyu Prakasa,2025-08-06,Transfer
+TRX0000005,PTG00009,Raharja Nugroho,2025-09-19,Transfer
+TRX0000006,PTG00003,Aisyah Nugroho,2025-09-26,Kartu Debit
+TRX0000007,PTG00007,Violet Zulkarnain,2025-08-01,QRIS
+TRX0000008,PTG00009,"Saka Prayoga, S.T.",2025-08-26,Transfer
+TRX0000009,PTG00006,"H. Balangga Wibowo, S.Gz",2024-12-19,Tunai
+TRX0000010,PTG00004,Gawati Pangestu,2025-09-17,Tunai
