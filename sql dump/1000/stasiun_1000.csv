@@ -1,0 +1,1001 @@
+ID_Stasiun,Nama_Stasiun,Lokasi
+ST00001,Stasiun Yogyakarta,Yogyakarta
+ST00002,Stasiun Bukittinggi,Tarakan
+ST00003,Stasiun Palembang,Tomohon
+ST00004,Stasiun Bima,Sabang
+ST00005,Stasiun Pekalongan,Cimahi
+ST00006,Stasiun Gorontalo,Cilegon
+ST00007,Stasiun Tarakan,Tual
+ST00008,Stasiun Tegal,Bukittinggi
+ST00009,Stasiun Magelang,Bitung
+ST00010,Stasiun Palembang,Yogyakarta
+ST00011,Stasiun Kota Administrasi Jakarta Barat,Makassar
+ST00012,Stasiun Pekalongan,Bau-Bau
+ST00013,Stasiun Medan,Mataram
+ST00014,Stasiun Bukittinggi,Kediri
+ST00015,Stasiun Pagaralam,Padang Sidempuan
+ST00016,Stasiun Pematangsiantar,Bandar Lampung
+ST00017,Stasiun Bontang,Tasikmalaya
+ST00018,Stasiun Bau-Bau,Lubuklinggau
+ST00019,Stasiun Yogyakarta,Palangkaraya
+ST00020,Stasiun Mojokerto,Surabaya
+ST00021,Stasiun Samarinda,Sorong
+ST00022,Stasiun Padangpanjang,Tangerang Selatan
+ST00023,Stasiun Tebingtinggi,Malang
+ST00024,Stasiun Kota Administrasi Jakarta Utara,Tanjungpinang
+ST00025,Stasiun Palopo,Probolinggo
+ST00026,Stasiun Tanjungpinang,Sungai Penuh
+ST00027,Stasiun Dumai,Bau-Bau
+ST00028,Stasiun Prabumulih,Meulaboh
+ST00029,Stasiun Pematangsiantar,Jambi
+ST00030,Stasiun Pekanbaru,Pematangsiantar
+ST00031,Stasiun Tomohon,Banda Aceh
+ST00032,Stasiun Probolinggo,Kendari
+ST00033,Stasiun Tebingtinggi,Pekalongan
+ST00034,Stasiun Tegal,Medan
+ST00035,Stasiun Sorong,Bitung
+ST00036,Stasiun Tomohon,Palopo
+ST00037,Stasiun Samarinda,Palu
+ST00038,Stasiun Kendari,Malang
+ST00039,Stasiun Kotamobagu,Tasikmalaya
+ST00040,Stasiun Pematangsiantar,Bima
+ST00041,Stasiun Pematangsiantar,Mataram
+ST00042,Stasiun Bengkulu,Tasikmalaya
+ST00043,Stasiun Padang Sidempuan,Bekasi
+ST00044,Stasiun Pagaralam,Parepare
+ST00045,Stasiun Palopo,Medan
+ST00046,Stasiun Semarang,Kota Administrasi Jakarta Selatan
+ST00047,Stasiun Subulussalam,Palembang
+ST00048,Stasiun Tegal,Cilegon
+ST00049,Stasiun Pekalongan,Pasuruan
+ST00050,Stasiun Blitar,Tanjungbalai
+ST00051,Stasiun Palu,Bandung
+ST00052,Stasiun Sabang,Bitung
+ST00053,Stasiun Binjai,Medan
+ST00054,Stasiun Banjar,Bitung
+ST00055,Stasiun Lhokseumawe,Langsa
+ST00056,Stasiun Pasuruan,Bontang
+ST00057,Stasiun Semarang,Banjarbaru
+ST00058,Stasiun Kotamobagu,Denpasar
+ST00059,Stasiun Ambon,Purwokerto
+ST00060,Stasiun Batam,Padangpanjang
+ST00061,Stasiun Samarinda,Salatiga
+ST00062,Stasiun Makassar,Parepare
+ST00063,Stasiun Tual,Pekalongan
+ST00064,Stasiun Tual,Surakarta
+ST00065,Stasiun Bukittinggi,Bekasi
+ST00066,Stasiun Meulaboh,Mojokerto
+ST00067,Stasiun Probolinggo,Surakarta
+ST00068,Stasiun Ternate,Sukabumi
+ST00069,Stasiun Cimahi,Samarinda
+ST00070,Stasiun Sabang,Sukabumi
+ST00071,Stasiun Depok,Salatiga
+ST00072,Stasiun Tomohon,Pekalongan
+ST00073,Stasiun Bitung,Banda Aceh
+ST00074,Stasiun Gorontalo,Tarakan
+ST00075,Stasiun Bau-Bau,Padang
+ST00076,Stasiun Pasuruan,Makassar
+ST00077,Stasiun Denpasar,Bandar Lampung
+ST00078,Stasiun Metro,Bekasi
+ST00079,Stasiun Bengkulu,Kotamobagu
+ST00080,Stasiun Denpasar,Yogyakarta
+ST00081,Stasiun Bukittinggi,Padang Sidempuan
+ST00082,Stasiun Banjarmasin,Denpasar
+ST00083,Stasiun Tasikmalaya,Langsa
+ST00084,Stasiun Bengkulu,Bontang
+ST00085,Stasiun Madiun,Metro
+ST00086,Stasiun Banjarbaru,Kendari
+ST00087,Stasiun Payakumbuh,Binjai
+ST00088,Stasiun Banjarmasin,Pangkalpinang
+ST00089,Stasiun Batam,Bandar Lampung
+ST00090,Stasiun Subulussalam,Banda Aceh
+ST00091,Stasiun Purwokerto,Kota Administrasi Jakarta Barat
+ST00092,Stasiun Langsa,Palopo
+ST00093,Stasiun Subulussalam,Bontang
+ST00094,Stasiun Probolinggo,Kota Administrasi Jakarta Barat
+ST00095,Stasiun Sabang,Banjar
+ST00096,Stasiun Pangkalpinang,Sungai Penuh
+ST00097,Stasiun Ambon,Pariaman
+ST00098,Stasiun Serang,Tangerang Selatan
+ST00099,Stasiun Malang,Sawahlunto
+ST00100,Stasiun Banjar,Ternate
+ST00101,Stasiun Langsa,Mojokerto
+ST00102,Stasiun Bogor,Palangkaraya
+ST00103,Stasiun Singkawang,Tangerang Selatan
+ST00104,Stasiun Subulussalam,Tomohon
+ST00105,Stasiun Kota Administrasi Jakarta Timur,Surabaya
+ST00106,Stasiun Makassar,Palu
+ST00107,Stasiun Banda Aceh,Sukabumi
+ST00108,Stasiun Sibolga,Ambon
+ST00109,Stasiun Tangerang,Padang Sidempuan
+ST00110,Stasiun Tual,Prabumulih
+ST00111,Stasiun Sungai Penuh,Prabumulih
+ST00112,Stasiun Surakarta,Tangerang
+ST00113,Stasiun Manado,Serang
+ST00114,Stasiun Meulaboh,Yogyakarta
+ST00115,Stasiun Bitung,Medan
+ST00116,Stasiun Palembang,Jayapura
+ST00117,Stasiun Tual,Tangerang Selatan
+ST00118,Stasiun Depok,Singkawang
+ST00119,Stasiun Tasikmalaya,Kediri
+ST00120,Stasiun Mataram,Kota Administrasi Jakarta Utara
+ST00121,Stasiun Tarakan,Ambon
+ST00122,Stasiun Subulussalam,Binjai
+ST00123,Stasiun Salatiga,Cimahi
+ST00124,Stasiun Surabaya,Batam
+ST00125,Stasiun Tidore Kepulauan,Blitar
+ST00126,Stasiun Salatiga,Pematangsiantar
+ST00127,Stasiun Depok,Tanjungbalai
+ST00128,Stasiun Tangerang Selatan,Ambon
+ST00129,Stasiun Sukabumi,Madiun
+ST00130,Stasiun Padang Sidempuan,Bitung
+ST00131,Stasiun Payakumbuh,Pematangsiantar
+ST00132,Stasiun Tebingtinggi,Banjarbaru
+ST00133,Stasiun Padangpanjang,Lubuklinggau
+ST00134,Stasiun Mojokerto,Magelang
+ST00135,Stasiun Samarinda,Ternate
+ST00136,Stasiun Tanjungbalai,Batu
+ST00137,Stasiun Dumai,Magelang
+ST00138,Stasiun Batam,Bandar Lampung
+ST00139,Stasiun Palangkaraya,Semarang
+ST00140,Stasiun Kota Administrasi Jakarta Pusat,Bima
+ST00141,Stasiun Kendari,Banjarbaru
+ST00142,Stasiun Pematangsiantar,Batu
+ST00143,Stasiun Tual,Sorong
+ST00144,Stasiun Sawahlunto,Bau-Bau
+ST00145,Stasiun Bandung,Lubuklinggau
+ST00146,Stasiun Blitar,Palembang
+ST00147,Stasiun Langsa,Batam
+ST00148,Stasiun Tangerang,Sabang
+ST00149,Stasiun Kupang,Padang
+ST00150,Stasiun Solok,Kediri
+ST00151,Stasiun Palu,Pangkalpinang
+ST00152,Stasiun Solok,Makassar
+ST00153,Stasiun Palu,Semarang
+ST00154,Stasiun Bima,Balikpapan
+ST00155,Stasiun Semarang,Samarinda
+ST00156,Stasiun Subulussalam,Manado
+ST00157,Stasiun Pariaman,Denpasar
+ST00158,Stasiun Bogor,Banjarmasin
+ST00159,Stasiun Lhokseumawe,Pekanbaru
+ST00160,Stasiun Lhokseumawe,Bontang
+ST00161,Stasiun Lhokseumawe,Kupang
+ST00162,Stasiun Balikpapan,Banjarmasin
+ST00163,Stasiun Pekalongan,Pagaralam
+ST00164,Stasiun Dumai,Subulussalam
+ST00165,Stasiun Batam,Depok
+ST00166,Stasiun Tanjungbalai,Serang
+ST00167,Stasiun Sawahlunto,Singkawang
+ST00168,Stasiun Padangpanjang,Cilegon
+ST00169,Stasiun Palu,Payakumbuh
+ST00170,Stasiun Ambon,Tanjungbalai
+ST00171,Stasiun Pangkalpinang,Kendari
+ST00172,Stasiun Ternate,Ternate
+ST00173,Stasiun Gorontalo,Denpasar
+ST00174,Stasiun Mataram,Batu
+ST00175,Stasiun Bandar Lampung,Bontang
+ST00176,Stasiun Palembang,Sorong
+ST00177,Stasiun Banjar,Dumai
+ST00178,Stasiun Kotamobagu,Jayapura
+ST00179,Stasiun Tebingtinggi,Makassar
+ST00180,Stasiun Cirebon,Banda Aceh
+ST00181,Stasiun Kota Administrasi Jakarta Selatan,Banda Aceh
+ST00182,Stasiun Metro,Makassar
+ST00183,Stasiun Lhokseumawe,Kendari
+ST00184,Stasiun Medan,Pontianak
+ST00185,Stasiun Tasikmalaya,Bitung
+ST00186,Stasiun Blitar,Depok
+ST00187,Stasiun Tanjungbalai,Lubuklinggau
+ST00188,Stasiun Subulussalam,Banjar
+ST00189,Stasiun Prabumulih,Bukittinggi
+ST00190,Stasiun Kota Administrasi Jakarta Barat,Sorong
+ST00191,Stasiun Blitar,Gorontalo
+ST00192,Stasiun Parepare,Cimahi
+ST00193,Stasiun Tomohon,Payakumbuh
+ST00194,Stasiun Cirebon,Tasikmalaya
+ST00195,Stasiun Pontianak,Tasikmalaya
+ST00196,Stasiun Parepare,Sawahlunto
+ST00197,Stasiun Subulussalam,Gorontalo
+ST00198,Stasiun Dumai,Kendari
+ST00199,Stasiun Jambi,Pagaralam
+ST00200,Stasiun Samarinda,Medan
+ST00201,Stasiun Purwokerto,Bogor
+ST00202,Stasiun Kupang,Pematangsiantar
+ST00203,Stasiun Kediri,Pangkalpinang
+ST00204,Stasiun Pagaralam,Pangkalpinang
+ST00205,Stasiun Padang Sidempuan,Payakumbuh
+ST00206,Stasiun Kota Administrasi Jakarta Timur,Bandar Lampung
+ST00207,Stasiun Palembang,Kota Administrasi Jakarta Selatan
+ST00208,Stasiun Manado,Kupang
+ST00209,Stasiun Kota Administrasi Jakarta Utara,Bengkulu
+ST00210,Stasiun Batu,Bandung
+ST00211,Stasiun Magelang,Tangerang
+ST00212,Stasiun Kota Administrasi Jakarta Pusat,Tidore Kepulauan
+ST00213,Stasiun Depok,Tomohon
+ST00214,Stasiun Balikpapan,Kotamobagu
+ST00215,Stasiun Padang,Sawahlunto
+ST00216,Stasiun Parepare,Mojokerto
+ST00217,Stasiun Kediri,Parepare
+ST00218,Stasiun Pematangsiantar,Tebingtinggi
+ST00219,Stasiun Makassar,Lubuklinggau
+ST00220,Stasiun Pagaralam,Gorontalo
+ST00221,Stasiun Palopo,Medan
+ST00222,Stasiun Samarinda,Lhokseumawe
+ST00223,Stasiun Payakumbuh,Makassar
+ST00224,Stasiun Padangpanjang,Tangerang Selatan
+ST00225,Stasiun Tual,Madiun
+ST00226,Stasiun Salatiga,Bogor
+ST00227,Stasiun Magelang,Metro
+ST00228,Stasiun Mojokerto,Prabumulih
+ST00229,Stasiun Depok,Bima
+ST00230,Stasiun Salatiga,Subulussalam
+ST00231,Stasiun Bekasi,Bima
+ST00232,Stasiun Bandung,Bandar Lampung
+ST00233,Stasiun Dumai,Meulaboh
+ST00234,Stasiun Gorontalo,Kupang
+ST00235,Stasiun Palu,Medan
+ST00236,Stasiun Cimahi,Padang Sidempuan
+ST00237,Stasiun Cilegon,Blitar
+ST00238,Stasiun Pariaman,Meulaboh
+ST00239,Stasiun Blitar,Lhokseumawe
+ST00240,Stasiun Tarakan,Cilegon
+ST00241,Stasiun Semarang,Pekalongan
+ST00242,Stasiun Kota Administrasi Jakarta Utara,Ambon
+ST00243,Stasiun Palopo,Padang
+ST00244,Stasiun Pontianak,Salatiga
+ST00245,Stasiun Palu,Samarinda
+ST00246,Stasiun Ternate,Kotamobagu
+ST00247,Stasiun Malang,Mojokerto
+ST00248,Stasiun Padangpanjang,Cirebon
+ST00249,Stasiun Palu,Surabaya
+ST00250,Stasiun Tanjungpinang,Mojokerto
+ST00251,Stasiun Kendari,Kota Administrasi Jakarta Utara
+ST00252,Stasiun Surakarta,Tanjungpinang
+ST00253,Stasiun Payakumbuh,Tual
+ST00254,Stasiun Medan,Tomohon
+ST00255,Stasiun Pekalongan,Padang Sidempuan
+ST00256,Stasiun Cimahi,Gorontalo
+ST00257,Stasiun Pangkalpinang,Batu
+ST00258,Stasiun Metro,Tidore Kepulauan
+ST00259,Stasiun Depok,Bandung
+ST00260,Stasiun Kota Administrasi Jakarta Pusat,Tarakan
+ST00261,Stasiun Madiun,Pasuruan
+ST00262,Stasiun Batam,Purwokerto
+ST00263,Stasiun Tasikmalaya,Bogor
+ST00264,Stasiun Kota Administrasi Jakarta Utara,Cimahi
+ST00265,Stasiun Sibolga,Cirebon
+ST00266,Stasiun Bitung,Cimahi
+ST00267,Stasiun Surakarta,Tangerang
+ST00268,Stasiun Bukittinggi,Manado
+ST00269,Stasiun Jambi,Tangerang
+ST00270,Stasiun Palembang,Subulussalam
+ST00271,Stasiun Meulaboh,Palembang
+ST00272,Stasiun Serang,Banjarbaru
+ST00273,Stasiun Yogyakarta,Kota Administrasi Jakarta Barat
+ST00274,Stasiun Kendari,Bekasi
+ST00275,Stasiun Padangpanjang,Balikpapan
+ST00276,Stasiun Depok,Jayapura
+ST00277,Stasiun Surakarta,Tebingtinggi
+ST00278,Stasiun Banjar,Pekanbaru
+ST00279,Stasiun Madiun,Sabang
+ST00280,Stasiun Solok,Probolinggo
+ST00281,Stasiun Pagaralam,Kediri
+ST00282,Stasiun Bima,Madiun
+ST00283,Stasiun Balikpapan,Sungai Penuh
+ST00284,Stasiun Balikpapan,Jambi
+ST00285,Stasiun Jayapura,Surabaya
+ST00286,Stasiun Sungai Penuh,Banjar
+ST00287,Stasiun Jambi,Langsa
+ST00288,Stasiun Bima,Kota Administrasi Jakarta Pusat
+ST00289,Stasiun Serang,Sorong
+ST00290,Stasiun Tangerang,Magelang
+ST00291,Stasiun Subulussalam,Surakarta
+ST00292,Stasiun Batam,Banda Aceh
+ST00293,Stasiun Metro,Pekalongan
+ST00294,Stasiun Kediri,Singkawang
+ST00295,Stasiun Lhokseumawe,Ternate
+ST00296,Stasiun Tomohon,Solok
+ST00297,Stasiun Banjarmasin,Medan
+ST00298,Stasiun Kupang,Bukittinggi
+ST00299,Stasiun Gorontalo,Kendari
+ST00300,Stasiun Ternate,Bogor
+ST00301,Stasiun Lubuklinggau,Pematangsiantar
+ST00302,Stasiun Sukabumi,Tomohon
+ST00303,Stasiun Kediri,Makassar
+ST00304,Stasiun Gorontalo,Surakarta
+ST00305,Stasiun Tangerang Selatan,Sibolga
+ST00306,Stasiun Pematangsiantar,Denpasar
+ST00307,Stasiun Sorong,Batam
+ST00308,Stasiun Batam,Banjarbaru
+ST00309,Stasiun Gorontalo,Bekasi
+ST00310,Stasiun Semarang,Kendari
+ST00311,Stasiun Pagaralam,Lhokseumawe
+ST00312,Stasiun Tebingtinggi,Kota Administrasi Jakarta Barat
+ST00313,Stasiun Cirebon,Langsa
+ST00314,Stasiun Samarinda,Subulussalam
+ST00315,Stasiun Kota Administrasi Jakarta Timur,Bau-Bau
+ST00316,Stasiun Mojokerto,Cimahi
+ST00317,Stasiun Palembang,Pekalongan
+ST00318,Stasiun Tual,Pariaman
+ST00319,Stasiun Tual,Pagaralam
+ST00320,Stasiun Tual,Serang
+ST00321,Stasiun Purwokerto,Kota Administrasi Jakarta Pusat
+ST00322,Stasiun Pangkalpinang,Palu
+ST00323,Stasiun Metro,Batu
+ST00324,Stasiun Bogor,Dumai
+ST00325,Stasiun Depok,Balikpapan
+ST00326,Stasiun Pasuruan,Padangpanjang
+ST00327,Stasiun Tidore Kepulauan,Meulaboh
+ST00328,Stasiun Lhokseumawe,Padang Sidempuan
+ST00329,Stasiun Bitung,Salatiga
+ST00330,Stasiun Depok,Kota Administrasi Jakarta Pusat
+ST00331,Stasiun Pekanbaru,Subulussalam
+ST00332,Stasiun Tanjungpinang,Sungai Penuh
+ST00333,Stasiun Pagaralam,Kota Administrasi Jakarta Barat
+ST00334,Stasiun Bandung,Sorong
+ST00335,Stasiun Tanjungpinang,Kota Administrasi Jakarta Selatan
+ST00336,Stasiun Tangerang Selatan,Kota Administrasi Jakarta Pusat
+ST00337,Stasiun Sibolga,Balikpapan
+ST00338,Stasiun Yogyakarta,Sukabumi
+ST00339,Stasiun Mojokerto,Pematangsiantar
+ST00340,Stasiun Pagaralam,Pagaralam
+ST00341,Stasiun Tanjungbalai,Pekalongan
+ST00342,Stasiun Semarang,Tegal
+ST00343,Stasiun Tomohon,Bima
+ST00344,Stasiun Bontang,Tidore Kepulauan
+ST00345,Stasiun Tidore Kepulauan,Tanjungpinang
+ST00346,Stasiun Ambon,Pasuruan
+ST00347,Stasiun Bengkulu,Tanjungpinang
+ST00348,Stasiun Pontianak,Sungai Penuh
+ST00349,Stasiun Tegal,Cimahi
+ST00350,Stasiun Medan,Tarakan
+ST00351,Stasiun Dumai,Denpasar
+ST00352,Stasiun Palopo,Denpasar
+ST00353,Stasiun Banjarmasin,Tual
+ST00354,Stasiun Kota Administrasi Jakarta Selatan,Palembang
+ST00355,Stasiun Subulussalam,Bau-Bau
+ST00356,Stasiun Bau-Bau,Bitung
+ST00357,Stasiun Batam,Bandar Lampung
+ST00358,Stasiun Pariaman,Tangerang
+ST00359,Stasiun Balikpapan,Kota Administrasi Jakarta Timur
+ST00360,Stasiun Surakarta,Bengkulu
+ST00361,Stasiun Pematangsiantar,Metro
+ST00362,Stasiun Pasuruan,Tomohon
+ST00363,Stasiun Sibolga,Makassar
+ST00364,Stasiun Tangerang Selatan,Lubuklinggau
+ST00365,Stasiun Mataram,Metro
+ST00366,Stasiun Manado,Bengkulu
+ST00367,Stasiun Palu,Tebingtinggi
+ST00368,Stasiun Bandar Lampung,Pontianak
+ST00369,Stasiun Tanjungpinang,Medan
+ST00370,Stasiun Solok,Pekanbaru
+ST00371,Stasiun Surabaya,Ambon
+ST00372,Stasiun Banda Aceh,Banjar
+ST00373,Stasiun Tangerang,Kediri
+ST00374,Stasiun Padang,Malang
+ST00375,Stasiun Parepare,Tegal
+ST00376,Stasiun Kupang,Tasikmalaya
+ST00377,Stasiun Pematangsiantar,Blitar
+ST00378,Stasiun Bekasi,Tangerang
+ST00379,Stasiun Cimahi,Binjai
+ST00380,Stasiun Surabaya,Kota Administrasi Jakarta Barat
+ST00381,Stasiun Cimahi,Bima
+ST00382,Stasiun Tasikmalaya,Cilegon
+ST00383,Stasiun Meulaboh,Jayapura
+ST00384,Stasiun Surakarta,Surakarta
+ST00385,Stasiun Surakarta,Prabumulih
+ST00386,Stasiun Bekasi,Jayapura
+ST00387,Stasiun Sukabumi,Metro
+ST00388,Stasiun Sungai Penuh,Kediri
+ST00389,Stasiun Kota Administrasi Jakarta Selatan,Kupang
+ST00390,Stasiun Binjai,Makassar
+ST00391,Stasiun Tidore Kepulauan,Samarinda
+ST00392,Stasiun Blitar,Metro
+ST00393,Stasiun Lhokseumawe,Semarang
+ST00394,Stasiun Meulaboh,Lubuklinggau
+ST00395,Stasiun Tangerang,Pematangsiantar
+ST00396,Stasiun Bima,Balikpapan
+ST00397,Stasiun Lubuklinggau,Kupang
+ST00398,Stasiun Payakumbuh,Bontang
+ST00399,Stasiun Bontang,Serang
+ST00400,Stasiun Lhokseumawe,Kota Administrasi Jakarta Utara
+ST00401,Stasiun Sorong,Payakumbuh
+ST00402,Stasiun Tarakan,Banjarmasin
+ST00403,Stasiun Bukittinggi,Tegal
+ST00404,Stasiun Tanjungpinang,Cirebon
+ST00405,Stasiun Tegal,Langsa
+ST00406,Stasiun Banda Aceh,Makassar
+ST00407,Stasiun Tangerang,Malang
+ST00408,Stasiun Mojokerto,Pontianak
+ST00409,Stasiun Kotamobagu,Tanjungpinang
+ST00410,Stasiun Bengkulu,Madiun
+ST00411,Stasiun Tarakan,Palu
+ST00412,Stasiun Samarinda,Palembang
+ST00413,Stasiun Kupang,Gorontalo
+ST00414,Stasiun Tidore Kepulauan,Ternate
+ST00415,Stasiun Mataram,Tangerang
+ST00416,Stasiun Metro,Tangerang
+ST00417,Stasiun Banjarmasin,Manado
+ST00418,Stasiun Cirebon,Bitung
+ST00419,Stasiun Semarang,Bukittinggi
+ST00420,Stasiun Kota Administrasi Jakarta Barat,Bitung
+ST00421,Stasiun Mojokerto,Langsa
+ST00422,Stasiun Sungai Penuh,Tanjungbalai
+ST00423,Stasiun Pangkalpinang,Kota Administrasi Jakarta Utara
+ST00424,Stasiun Medan,Bitung
+ST00425,Stasiun Bau-Bau,Pasuruan
+ST00426,Stasiun Banda Aceh,Kota Administrasi Jakarta Utara
+ST00427,Stasiun Semarang,Meulaboh
+ST00428,Stasiun Sukabumi,Langsa
+ST00429,Stasiun Bengkulu,Batam
+ST00430,Stasiun Padang,Mojokerto
+ST00431,Stasiun Batam,Tomohon
+ST00432,Stasiun Surabaya,Denpasar
+ST00433,Stasiun Ambon,Lubuklinggau
+ST00434,Stasiun Banjar,Samarinda
+ST00435,Stasiun Sungai Penuh,Bekasi
+ST00436,Stasiun Tomohon,Bau-Bau
+ST00437,Stasiun Pekalongan,Mataram
+ST00438,Stasiun Pagaralam,Kota Administrasi Jakarta Barat
+ST00439,Stasiun Banjar,Surabaya
+ST00440,Stasiun Bogor,Tanjungbalai
+ST00441,Stasiun Pematangsiantar,Sibolga
+ST00442,Stasiun Tanjungbalai,Surabaya
+ST00443,Stasiun Kendari,Depok
+ST00444,Stasiun Langsa,Bogor
+ST00445,Stasiun Semarang,Kota Administrasi Jakarta Utara
+ST00446,Stasiun Tegal,Batu
+ST00447,Stasiun Kota Administrasi Jakarta Selatan,Sungai Penuh
+ST00448,Stasiun Padang,Bau-Bau
+ST00449,Stasiun Tangerang,Tanjungbalai
+ST00450,Stasiun Prabumulih,Batu
+ST00451,Stasiun Subulussalam,Tasikmalaya
+ST00452,Stasiun Salatiga,Padangpanjang
+ST00453,Stasiun Lubuklinggau,Metro
+ST00454,Stasiun Sibolga,Batu
+ST00455,Stasiun Bitung,Tangerang Selatan
+ST00456,Stasiun Batam,Subulussalam
+ST00457,Stasiun Mataram,Kota Administrasi Jakarta Timur
+ST00458,Stasiun Jayapura,Balikpapan
+ST00459,Stasiun Metro,Metro
+ST00460,Stasiun Bitung,Pontianak
+ST00461,Stasiun Semarang,Bengkulu
+ST00462,Stasiun Tanjungpinang,Purwokerto
+ST00463,Stasiun Sibolga,Banjarbaru
+ST00464,Stasiun Lubuklinggau,Denpasar
+ST00465,Stasiun Ternate,Pariaman
+ST00466,Stasiun Kota Administrasi Jakarta Selatan,Tangerang Selatan
+ST00467,Stasiun Surabaya,Bontang
+ST00468,Stasiun Salatiga,Banjarbaru
+ST00469,Stasiun Tarakan,Tangerang
+ST00470,Stasiun Tarakan,Denpasar
+ST00471,Stasiun Manado,Pekalongan
+ST00472,Stasiun Kota Administrasi Jakarta Utara,Pematangsiantar
+ST00473,Stasiun Lhokseumawe,Lhokseumawe
+ST00474,Stasiun Yogyakarta,Bekasi
+ST00475,Stasiun Batu,Bekasi
+ST00476,Stasiun Samarinda,Bau-Bau
+ST00477,Stasiun Purwokerto,Balikpapan
+ST00478,Stasiun Tangerang,Pariaman
+ST00479,Stasiun Pekanbaru,Padang
+ST00480,Stasiun Singkawang,Tidore Kepulauan
+ST00481,Stasiun Tasikmalaya,Tanjungpinang
+ST00482,Stasiun Kota Administrasi Jakarta Barat,Sibolga
+ST00483,Stasiun Cimahi,Cirebon
+ST00484,Stasiun Mataram,Pekanbaru
+ST00485,Stasiun Banjarbaru,Payakumbuh
+ST00486,Stasiun Cimahi,Binjai
+ST00487,Stasiun Tangerang,Probolinggo
+ST00488,Stasiun Kupang,Pariaman
+ST00489,Stasiun Kota Administrasi Jakarta Selatan,Ambon
+ST00490,Stasiun Jambi,Sukabumi
+ST00491,Stasiun Pangkalpinang,Banjarmasin
+ST00492,Stasiun Ambon,Magelang
+ST00493,Stasiun Manado,Ambon
+ST00494,Stasiun Tebingtinggi,Padang
+ST00495,Stasiun Balikpapan,Palangkaraya
+ST00496,Stasiun Dumai,Pontianak
+ST00497,Stasiun Padang Sidempuan,Pasuruan
+ST00498,Stasiun Bukittinggi,Jayapura
+ST00499,Stasiun Mojokerto,Langsa
+ST00500,Stasiun Pagaralam,Prabumulih
+ST00501,Stasiun Bima,Surabaya
+ST00502,Stasiun Cilegon,Manado
+ST00503,Stasiun Ambon,Tarakan
+ST00504,Stasiun Binjai,Kotamobagu
+ST00505,Stasiun Bogor,Padangpanjang
+ST00506,Stasiun Bandung,Surakarta
+ST00507,Stasiun Pariaman,Bitung
+ST00508,Stasiun Pasuruan,Tangerang Selatan
+ST00509,Stasiun Madiun,Pekalongan
+ST00510,Stasiun Blitar,Bima
+ST00511,Stasiun Blitar,Malang
+ST00512,Stasiun Yogyakarta,Banjarbaru
+ST00513,Stasiun Pagaralam,Palangkaraya
+ST00514,Stasiun Kupang,Pasuruan
+ST00515,Stasiun Tual,Kota Administrasi Jakarta Barat
+ST00516,Stasiun Tegal,Kota Administrasi Jakarta Barat
+ST00517,Stasiun Yogyakarta,Kota Administrasi Jakarta Selatan
+ST00518,Stasiun Surakarta,Dumai
+ST00519,Stasiun Tarakan,Tanjungpinang
+ST00520,Stasiun Depok,Kediri
+ST00521,Stasiun Blitar,Bandung
+ST00522,Stasiun Depok,Pagaralam
+ST00523,Stasiun Singkawang,Bekasi
+ST00524,Stasiun Metro,Pontianak
+ST00525,Stasiun Tanjungpinang,Jayapura
+ST00526,Stasiun Pagaralam,Banjarmasin
+ST00527,Stasiun Sukabumi,Langsa
+ST00528,Stasiun Kota Administrasi Jakarta Timur,Kota Administrasi Jakarta Utara
+ST00529,Stasiun Tasikmalaya,Kota Administrasi Jakarta Barat
+ST00530,Stasiun Banjarbaru,Banjar
+ST00531,Stasiun Banjarbaru,Jambi
+ST00532,Stasiun Parepare,Sibolga
+ST00533,Stasiun Palangkaraya,Kota Administrasi Jakarta Pusat
+ST00534,Stasiun Mataram,Langsa
+ST00535,Stasiun Bengkulu,Tangerang Selatan
+ST00536,Stasiun Magelang,Ternate
+ST00537,Stasiun Tidore Kepulauan,Kendari
+ST00538,Stasiun Gorontalo,Bekasi
+ST00539,Stasiun Blitar,Banjar
+ST00540,Stasiun Depok,Bengkulu
+ST00541,Stasiun Probolinggo,Langsa
+ST00542,Stasiun Tual,Prabumulih
+ST00543,Stasiun Banjar,Depok
+ST00544,Stasiun Purwokerto,Tual
+ST00545,Stasiun Mataram,Sorong
+ST00546,Stasiun Palangkaraya,Pariaman
+ST00547,Stasiun Pontianak,Cimahi
+ST00548,Stasiun Tanjungpinang,Kupang
+ST00549,Stasiun Salatiga,Tanjungbalai
+ST00550,Stasiun Ternate,Payakumbuh
+ST00551,Stasiun Cimahi,Tomohon
+ST00552,Stasiun Sabang,Padang
+ST00553,Stasiun Gorontalo,Ambon
+ST00554,Stasiun Samarinda,Semarang
+ST00555,Stasiun Pekanbaru,Pekalongan
+ST00556,Stasiun Langsa,Kupang
+ST00557,Stasiun Purwokerto,Cimahi
+ST00558,Stasiun Banjar,Kupang
+ST00559,Stasiun Subulussalam,Kota Administrasi Jakarta Utara
+ST00560,Stasiun Kota Administrasi Jakarta Timur,Sukabumi
+ST00561,Stasiun Gorontalo,Ambon
+ST00562,Stasiun Sorong,Madiun
+ST00563,Stasiun Tarakan,Tebingtinggi
+ST00564,Stasiun Padang Sidempuan,Madiun
+ST00565,Stasiun Sorong,Manado
+ST00566,Stasiun Tegal,Cirebon
+ST00567,Stasiun Banda Aceh,Tebingtinggi
+ST00568,Stasiun Sungai Penuh,Sorong
+ST00569,Stasiun Palembang,Madiun
+ST00570,Stasiun Gorontalo,Bukittinggi
+ST00571,Stasiun Kediri,Medan
+ST00572,Stasiun Pariaman,Payakumbuh
+ST00573,Stasiun Palu,Cirebon
+ST00574,Stasiun Salatiga,Tegal
+ST00575,Stasiun Sukabumi,Banda Aceh
+ST00576,Stasiun Cilegon,Mojokerto
+ST00577,Stasiun Batam,Batu
+ST00578,Stasiun Kota Administrasi Jakarta Barat,Sukabumi
+ST00579,Stasiun Bengkulu,Tegal
+ST00580,Stasiun Sibolga,Metro
+ST00581,Stasiun Banda Aceh,Balikpapan
+ST00582,Stasiun Blitar,Yogyakarta
+ST00583,Stasiun Kota Administrasi Jakarta Timur,Sorong
+ST00584,Stasiun Balikpapan,Probolinggo
+ST00585,Stasiun Tarakan,Dumai
+ST00586,Stasiun Pariaman,Cilegon
+ST00587,Stasiun Magelang,Bukittinggi
+ST00588,Stasiun Banjarmasin,Sorong
+ST00589,Stasiun Banda Aceh,Bima
+ST00590,Stasiun Bima,Bontang
+ST00591,Stasiun Jayapura,Kediri
+ST00592,Stasiun Meulaboh,Manado
+ST00593,Stasiun Jayapura,Tangerang Selatan
+ST00594,Stasiun Pasuruan,Binjai
+ST00595,Stasiun Bima,Manado
+ST00596,Stasiun Singkawang,Bitung
+ST00597,Stasiun Bau-Bau,Sibolga
+ST00598,Stasiun Cirebon,Pontianak
+ST00599,Stasiun Serang,Tangerang
+ST00600,Stasiun Bukittinggi,Solok
+ST00601,Stasiun Malang,Kota Administrasi Jakarta Timur
+ST00602,Stasiun Surabaya,Kota Administrasi Jakarta Selatan
+ST00603,Stasiun Ambon,Sungai Penuh
+ST00604,Stasiun Lubuklinggau,Meulaboh
+ST00605,Stasiun Tebingtinggi,Batam
+ST00606,Stasiun Samarinda,Tegal
+ST00607,Stasiun Bontang,Madiun
+ST00608,Stasiun Denpasar,Manado
+ST00609,Stasiun Payakumbuh,Pariaman
+ST00610,Stasiun Sibolga,Bogor
+ST00611,Stasiun Meulaboh,Purwokerto
+ST00612,Stasiun Prabumulih,Prabumulih
+ST00613,Stasiun Meulaboh,Sawahlunto
+ST00614,Stasiun Pontianak,Tanjungpinang
+ST00615,Stasiun Kendari,Ambon
+ST00616,Stasiun Banda Aceh,Sabang
+ST00617,Stasiun Bogor,Banjarmasin
+ST00618,Stasiun Mataram,Kupang
+ST00619,Stasiun Bontang,Kota Administrasi Jakarta Barat
+ST00620,Stasiun Jayapura,Tidore Kepulauan
+ST00621,Stasiun Bitung,Metro
+ST00622,Stasiun Tanjungpinang,Medan
+ST00623,Stasiun Tanjungpinang,Surabaya
+ST00624,Stasiun Pariaman,Bandar Lampung
+ST00625,Stasiun Mataram,Bau-Bau
+ST00626,Stasiun Batu,Salatiga
+ST00627,Stasiun Bukittinggi,Parepare
+ST00628,Stasiun Tidore Kepulauan,Parepare
+ST00629,Stasiun Tebingtinggi,Palembang
+ST00630,Stasiun Kotamobagu,Bukittinggi
+ST00631,Stasiun Sukabumi,Sibolga
+ST00632,Stasiun Pekalongan,Balikpapan
+ST00633,Stasiun Pagaralam,Purwokerto
+ST00634,Stasiun Samarinda,Tarakan
+ST00635,Stasiun Pagaralam,Kota Administrasi Jakarta Timur
+ST00636,Stasiun Pematangsiantar,Blitar
+ST00637,Stasiun Padang,Jayapura
+ST00638,Stasiun Denpasar,Tanjungbalai
+ST00639,Stasiun Pariaman,Sungai Penuh
+ST00640,Stasiun Metro,Banjarbaru
+ST00641,Stasiun Sukabumi,Depok
+ST00642,Stasiun Bima,Batu
+ST00643,Stasiun Sibolga,Bandar Lampung
+ST00644,Stasiun Kotamobagu,Probolinggo
+ST00645,Stasiun Batam,Serang
+ST00646,Stasiun Tomohon,Depok
+ST00647,Stasiun Subulussalam,Kendari
+ST00648,Stasiun Bau-Bau,Salatiga
+ST00649,Stasiun Banjar,Lubuklinggau
+ST00650,Stasiun Lhokseumawe,Manado
+ST00651,Stasiun Mojokerto,Lubuklinggau
+ST00652,Stasiun Tebingtinggi,Blitar
+ST00653,Stasiun Magelang,Ternate
+ST00654,Stasiun Pekalongan,Bandar Lampung
+ST00655,Stasiun Pariaman,Kupang
+ST00656,Stasiun Bukittinggi,Bau-Bau
+ST00657,Stasiun Tasikmalaya,Jambi
+ST00658,Stasiun Yogyakarta,Pekalongan
+ST00659,Stasiun Palopo,Makassar
+ST00660,Stasiun Mataram,Banjar
+ST00661,Stasiun Kendari,Singkawang
+ST00662,Stasiun Bukittinggi,Bengkulu
+ST00663,Stasiun Bontang,Purwokerto
+ST00664,Stasiun Payakumbuh,Palu
+ST00665,Stasiun Cimahi,Cilegon
+ST00666,Stasiun Kota Administrasi Jakarta Utara,Manado
+ST00667,Stasiun Batu,Tarakan
+ST00668,Stasiun Kota Administrasi Jakarta Selatan,Kota Administrasi Jakarta Pusat
+ST00669,Stasiun Sungai Penuh,Bitung
+ST00670,Stasiun Banjar,Kotamobagu
+ST00671,Stasiun Padang Sidempuan,Palembang
+ST00672,Stasiun Pekanbaru,Medan
+ST00673,Stasiun Tangerang Selatan,Pekalongan
+ST00674,Stasiun Kota Administrasi Jakarta Selatan,Solok
+ST00675,Stasiun Ternate,Tanjungpinang
+ST00676,Stasiun Bukittinggi,Kupang
+ST00677,Stasiun Cilegon,Batu
+ST00678,Stasiun Meulaboh,Surakarta
+ST00679,Stasiun Malang,Pangkalpinang
+ST00680,Stasiun Bima,Denpasar
+ST00681,Stasiun Mojokerto,Dumai
+ST00682,Stasiun Magelang,Lubuklinggau
+ST00683,Stasiun Sibolga,Jambi
+ST00684,Stasiun Binjai,Palu
+ST00685,Stasiun Probolinggo,Parepare
+ST00686,Stasiun Subulussalam,Lubuklinggau
+ST00687,Stasiun Serang,Banjarmasin
+ST00688,Stasiun Palangkaraya,Jambi
+ST00689,Stasiun Jambi,Tual
+ST00690,Stasiun Kota Administrasi Jakarta Timur,Subulussalam
+ST00691,Stasiun Bau-Bau,Batam
+ST00692,Stasiun Padang,Langsa
+ST00693,Stasiun Padangpanjang,Surakarta
+ST00694,Stasiun Denpasar,Bekasi
+ST00695,Stasiun Makassar,Cimahi
+ST00696,Stasiun Malang,Pariaman
+ST00697,Stasiun Prabumulih,Tanjungpinang
+ST00698,Stasiun Manado,Balikpapan
+ST00699,Stasiun Batu,Madiun
+ST00700,Stasiun Balikpapan,Palu
+ST00701,Stasiun Payakumbuh,Binjai
+ST00702,Stasiun Kota Administrasi Jakarta Selatan,Palopo
+ST00703,Stasiun Subulussalam,Subulussalam
+ST00704,Stasiun Bandung,Tidore Kepulauan
+ST00705,Stasiun Padangpanjang,Serang
+ST00706,Stasiun Jambi,Gorontalo
+ST00707,Stasiun Tangerang,Medan
+ST00708,Stasiun Banda Aceh,Lhokseumawe
+ST00709,Stasiun Tanjungpinang,Sungai Penuh
+ST00710,Stasiun Padang Sidempuan,Manado
+ST00711,Stasiun Probolinggo,Pematangsiantar
+ST00712,Stasiun Binjai,Palu
+ST00713,Stasiun Medan,Purwokerto
+ST00714,Stasiun Probolinggo,Metro
+ST00715,Stasiun Surabaya,Subulussalam
+ST00716,Stasiun Tanjungpinang,Bekasi
+ST00717,Stasiun Bekasi,Singkawang
+ST00718,Stasiun Bima,Tidore Kepulauan
+ST00719,Stasiun Subulussalam,Pekalongan
+ST00720,Stasiun Surakarta,Padangpanjang
+ST00721,Stasiun Jayapura,Purwokerto
+ST00722,Stasiun Binjai,Parepare
+ST00723,Stasiun Malang,Padang Sidempuan
+ST00724,Stasiun Ambon,Jayapura
+ST00725,Stasiun Kota Administrasi Jakarta Timur,Lhokseumawe
+ST00726,Stasiun Tangerang,Ambon
+ST00727,Stasiun Bandung,Bandar Lampung
+ST00728,Stasiun Medan,Magelang
+ST00729,Stasiun Samarinda,Kendari
+ST00730,Stasiun Depok,Banjarbaru
+ST00731,Stasiun Blitar,Tegal
+ST00732,Stasiun Padang,Pematangsiantar
+ST00733,Stasiun Palangkaraya,Bengkulu
+ST00734,Stasiun Pekalongan,Sorong
+ST00735,Stasiun Tual,Purwokerto
+ST00736,Stasiun Madiun,Bekasi
+ST00737,Stasiun Bandar Lampung,Balikpapan
+ST00738,Stasiun Bandar Lampung,Samarinda
+ST00739,Stasiun Bandar Lampung,Palu
+ST00740,Stasiun Denpasar,Sungai Penuh
+ST00741,Stasiun Langsa,Prabumulih
+ST00742,Stasiun Tebingtinggi,Yogyakarta
+ST00743,Stasiun Surabaya,Kota Administrasi Jakarta Utara
+ST00744,Stasiun Bontang,Subulussalam
+ST00745,Stasiun Binjai,Serang
+ST00746,Stasiun Bima,Kotamobagu
+ST00747,Stasiun Denpasar,Batu
+ST00748,Stasiun Mataram,Mojokerto
+ST00749,Stasiun Pasuruan,Padang Sidempuan
+ST00750,Stasiun Pasuruan,Gorontalo
+ST00751,Stasiun Metro,Subulussalam
+ST00752,Stasiun Cilegon,Langsa
+ST00753,Stasiun Cirebon,Bitung
+ST00754,Stasiun Malang,Singkawang
+ST00755,Stasiun Cilegon,Bitung
+ST00756,Stasiun Sibolga,Prabumulih
+ST00757,Stasiun Pematangsiantar,Jambi
+ST00758,Stasiun Binjai,Bandar Lampung
+ST00759,Stasiun Bogor,Bau-Bau
+ST00760,Stasiun Kota Administrasi Jakarta Timur,Pariaman
+ST00761,Stasiun Bekasi,Tarakan
+ST00762,Stasiun Pangkalpinang,Palangkaraya
+ST00763,Stasiun Depok,Cirebon
+ST00764,Stasiun Tangerang Selatan,Mojokerto
+ST00765,Stasiun Sawahlunto,Cimahi
+ST00766,Stasiun Tebingtinggi,Palangkaraya
+ST00767,Stasiun Pagaralam,Lubuklinggau
+ST00768,Stasiun Sibolga,Pagaralam
+ST00769,Stasiun Salatiga,Medan
+ST00770,Stasiun Palopo,Bandung
+ST00771,Stasiun Semarang,Kupang
+ST00772,Stasiun Mojokerto,Binjai
+ST00773,Stasiun Madiun,Denpasar
+ST00774,Stasiun Kota Administrasi Jakarta Barat,Jambi
+ST00775,Stasiun Medan,Lubuklinggau
+ST00776,Stasiun Balikpapan,Tanjungbalai
+ST00777,Stasiun Tasikmalaya,Jambi
+ST00778,Stasiun Salatiga,Kediri
+ST00779,Stasiun Meulaboh,Sibolga
+ST00780,Stasiun Pontianak,Bima
+ST00781,Stasiun Tasikmalaya,Samarinda
+ST00782,Stasiun Tangerang Selatan,Lubuklinggau
+ST00783,Stasiun Dumai,Banjarbaru
+ST00784,Stasiun Payakumbuh,Kota Administrasi Jakarta Utara
+ST00785,Stasiun Bitung,Palopo
+ST00786,Stasiun Serang,Semarang
+ST00787,Stasiun Kendari,Kotamobagu
+ST00788,Stasiun Sukabumi,Pangkalpinang
+ST00789,Stasiun Blitar,Bandung
+ST00790,Stasiun Makassar,Batam
+ST00791,Stasiun Bengkulu,Tebingtinggi
+ST00792,Stasiun Kota Administrasi Jakarta Utara,Tomohon
+ST00793,Stasiun Padang,Sabang
+ST00794,Stasiun Payakumbuh,Mojokerto
+ST00795,Stasiun Tanjungpinang,Payakumbuh
+ST00796,Stasiun Medan,Bandar Lampung
+ST00797,Stasiun Banjarbaru,Bogor
+ST00798,Stasiun Madiun,Jayapura
+ST00799,Stasiun Bekasi,Tebingtinggi
+ST00800,Stasiun Prabumulih,Tanjungbalai
+ST00801,Stasiun Kota Administrasi Jakarta Selatan,Binjai
+ST00802,Stasiun Langsa,Kota Administrasi Jakarta Selatan
+ST00803,Stasiun Tanjungbalai,Kota Administrasi Jakarta Timur
+ST00804,Stasiun Bogor,Bitung
+ST00805,Stasiun Lubuklinggau,Tomohon
+ST00806,Stasiun Subulussalam,Surakarta
+ST00807,Stasiun Pematangsiantar,Samarinda
+ST00808,Stasiun Surabaya,Kota Administrasi Jakarta Utara
+ST00809,Stasiun Yogyakarta,Jayapura
+ST00810,Stasiun Kota Administrasi Jakarta Selatan,Tasikmalaya
+ST00811,Stasiun Manado,Surabaya
+ST00812,Stasiun Tanjungbalai,Batu
+ST00813,Stasiun Banjarmasin,Balikpapan
+ST00814,Stasiun Pangkalpinang,Depok
+ST00815,Stasiun Bima,Gorontalo
+ST00816,Stasiun Tual,Tarakan
+ST00817,Stasiun Sungai Penuh,Pekalongan
+ST00818,Stasiun Blitar,Mataram
+ST00819,Stasiun Palopo,Padang
+ST00820,Stasiun Batam,Pagaralam
+ST00821,Stasiun Tangerang Selatan,Samarinda
+ST00822,Stasiun Bontang,Bima
+ST00823,Stasiun Kendari,Palu
+ST00824,Stasiun Kota Administrasi Jakarta Timur,Parepare
+ST00825,Stasiun Manado,Bitung
+ST00826,Stasiun Manado,Jambi
+ST00827,Stasiun Mojokerto,Pekanbaru
+ST00828,Stasiun Banjarbaru,Kota Administrasi Jakarta Timur
+ST00829,Stasiun Bengkulu,Sungai Penuh
+ST00830,Stasiun Tegal,Depok
+ST00831,Stasiun Depok,Cirebon
+ST00832,Stasiun Pontianak,Pematangsiantar
+ST00833,Stasiun Bima,Sukabumi
+ST00834,Stasiun Binjai,Binjai
+ST00835,Stasiun Bandung,Kendari
+ST00836,Stasiun Prabumulih,Kota Administrasi Jakarta Utara
+ST00837,Stasiun Solok,Mojokerto
+ST00838,Stasiun Bengkulu,Tegal
+ST00839,Stasiun Payakumbuh,Cimahi
+ST00840,Stasiun Malang,Tarakan
+ST00841,Stasiun Tegal,Bengkulu
+ST00842,Stasiun Pekalongan,Ternate
+ST00843,Stasiun Tanjungbalai,Cimahi
+ST00844,Stasiun Tangerang Selatan,Cimahi
+ST00845,Stasiun Magelang,Bontang
+ST00846,Stasiun Surakarta,Pagaralam
+ST00847,Stasiun Banda Aceh,Kota Administrasi Jakarta Selatan
+ST00848,Stasiun Cimahi,Serang
+ST00849,Stasiun Parepare,Pasuruan
+ST00850,Stasiun Parepare,Banjar
+ST00851,Stasiun Salatiga,Kediri
+ST00852,Stasiun Tomohon,Bengkulu
+ST00853,Stasiun Langsa,Palopo
+ST00854,Stasiun Ternate,Probolinggo
+ST00855,Stasiun Surabaya,Kota Administrasi Jakarta Pusat
+ST00856,Stasiun Palu,Manado
+ST00857,Stasiun Tarakan,Pematangsiantar
+ST00858,Stasiun Binjai,Tangerang Selatan
+ST00859,Stasiun Bontang,Jayapura
+ST00860,Stasiun Manado,Bandar Lampung
+ST00861,Stasiun Samarinda,Mataram
+ST00862,Stasiun Tidore Kepulauan,Depok
+ST00863,Stasiun Subulussalam,Kota Administrasi Jakarta Utara
+ST00864,Stasiun Pontianak,Kota Administrasi Jakarta Selatan
+ST00865,Stasiun Magelang,Semarang
+ST00866,Stasiun Kota Administrasi Jakarta Utara,Depok
+ST00867,Stasiun Sawahlunto,Singkawang
+ST00868,Stasiun Palangkaraya,Salatiga
+ST00869,Stasiun Kotamobagu,Balikpapan
+ST00870,Stasiun Tangerang Selatan,Pangkalpinang
+ST00871,Stasiun Pematangsiantar,Solok
+ST00872,Stasiun Langsa,Kotamobagu
+ST00873,Stasiun Kupang,Palu
+ST00874,Stasiun Jambi,Semarang
+ST00875,Stasiun Banjarbaru,Lhokseumawe
+ST00876,Stasiun Palangkaraya,Surabaya
+ST00877,Stasiun Banjarbaru,Bogor
+ST00878,Stasiun Kotamobagu,Bekasi
+ST00879,Stasiun Bontang,Palangkaraya
+ST00880,Stasiun Kupang,Bandung
+ST00881,Stasiun Manado,Tangerang
+ST00882,Stasiun Pagaralam,Bengkulu
+ST00883,Stasiun Langsa,Cirebon
+ST00884,Stasiun Tangerang,Sawahlunto
+ST00885,Stasiun Tangerang Selatan,Kota Administrasi Jakarta Pusat
+ST00886,Stasiun Padangpanjang,Langsa
+ST00887,Stasiun Bau-Bau,Salatiga
+ST00888,Stasiun Probolinggo,Metro
+ST00889,Stasiun Bengkulu,Pontianak
+ST00890,Stasiun Tanjungbalai,Pekalongan
+ST00891,Stasiun Pangkalpinang,Pagaralam
+ST00892,Stasiun Padangpanjang,Pangkalpinang
+ST00893,Stasiun Sabang,Yogyakarta
+ST00894,Stasiun Bekasi,Singkawang
+ST00895,Stasiun Kota Administrasi Jakarta Barat,Blitar
+ST00896,Stasiun Banjarbaru,Blitar
+ST00897,Stasiun Surakarta,Pangkalpinang
+ST00898,Stasiun Banjarbaru,Banjarmasin
+ST00899,Stasiun Sungai Penuh,Magelang
+ST00900,Stasiun Kupang,Tanjungbalai
+ST00901,Stasiun Banjarmasin,Ternate
+ST00902,Stasiun Tanjungpinang,Pematangsiantar
+ST00903,Stasiun Sabang,Bogor
+ST00904,Stasiun Tangerang,Langsa
+ST00905,Stasiun Tebingtinggi,Pasuruan
+ST00906,Stasiun Binjai,Ambon
+ST00907,Stasiun Sibolga,Pematangsiantar
+ST00908,Stasiun Kota Administrasi Jakarta Barat,Bima
+ST00909,Stasiun Bandar Lampung,Mojokerto
+ST00910,Stasiun Bitung,Padang
+ST00911,Stasiun Denpasar,Probolinggo
+ST00912,Stasiun Singkawang,Surabaya
+ST00913,Stasiun Palangkaraya,Subulussalam
+ST00914,Stasiun Denpasar,Tidore Kepulauan
+ST00915,Stasiun Cimahi,Parepare
+ST00916,Stasiun Kupang,Surakarta
+ST00917,Stasiun Semarang,Medan
+ST00918,Stasiun Mojokerto,Tanjungpinang
+ST00919,Stasiun Pangkalpinang,Pagaralam
+ST00920,Stasiun Bandar Lampung,Palu
+ST00921,Stasiun Salatiga,Balikpapan
+ST00922,Stasiun Bandung,Banjar
+ST00923,Stasiun Bogor,Tebingtinggi
+ST00924,Stasiun Kota Administrasi Jakarta Utara,Cilegon
+ST00925,Stasiun Pekalongan,Malang
+ST00926,Stasiun Pekanbaru,Cirebon
+ST00927,Stasiun Manado,Palu
+ST00928,Stasiun Kota Administrasi Jakarta Utara,Mojokerto
+ST00929,Stasiun Sukabumi,Metro
+ST00930,Stasiun Sibolga,Samarinda
+ST00931,Stasiun Blitar,Semarang
+ST00932,Stasiun Sawahlunto,Batam
+ST00933,Stasiun Bandar Lampung,Kediri
+ST00934,Stasiun Surakarta,Payakumbuh
+ST00935,Stasiun Madiun,Yogyakarta
+ST00936,Stasiun Bima,Tegal
+ST00937,Stasiun Tomohon,Batam
+ST00938,Stasiun Singkawang,Binjai
+ST00939,Stasiun Tidore Kepulauan,Palembang
+ST00940,Stasiun Sibolga,Cirebon
+ST00941,Stasiun Bima,Metro
+ST00942,Stasiun Subulussalam,Dumai
+ST00943,Stasiun Pasuruan,Tangerang
+ST00944,Stasiun Jayapura,Ternate
+ST00945,Stasiun Palangkaraya,Bekasi
+ST00946,Stasiun Sorong,Gorontalo
+ST00947,Stasiun Bogor,Mataram
+ST00948,Stasiun Salatiga,Makassar
+ST00949,Stasiun Tangerang Selatan,Depok
+ST00950,Stasiun Samarinda,Pekalongan
+ST00951,Stasiun Manado,Batam
+ST00952,Stasiun Pagaralam,Batu
+ST00953,Stasiun Blitar,Bengkulu
+ST00954,Stasiun Payakumbuh,Banjarbaru
+ST00955,Stasiun Banda Aceh,Kupang
+ST00956,Stasiun Meulaboh,Batam
+ST00957,Stasiun Kotamobagu,Prabumulih
+ST00958,Stasiun Pematangsiantar,Padang
+ST00959,Stasiun Probolinggo,Sawahlunto
+ST00960,Stasiun Kota Administrasi Jakarta Selatan,Bandung
+ST00961,Stasiun Padangpanjang,Dumai
+ST00962,Stasiun Tual,Bogor
+ST00963,Stasiun Purwokerto,Tomohon
+ST00964,Stasiun Kendari,Batu
+ST00965,Stasiun Malang,Padangpanjang
+ST00966,Stasiun Purwokerto,Blitar
+ST00967,Stasiun Tebingtinggi,Bima
+ST00968,Stasiun Payakumbuh,Sungai Penuh
+ST00969,Stasiun Palangkaraya,Langsa
+ST00970,Stasiun Banda Aceh,Bandar Lampung
+ST00971,Stasiun Prabumulih,Tangerang Selatan
+ST00972,Stasiun Purwokerto,Banjarbaru
+ST00973,Stasiun Yogyakarta,Tanjungpinang
+ST00974,Stasiun Palangkaraya,Purwokerto
+ST00975,Stasiun Binjai,Bitung
+ST00976,Stasiun Manado,Makassar
+ST00977,Stasiun Banjarmasin,Kediri
+ST00978,Stasiun Semarang,Kediri
+ST00979,Stasiun Tidore Kepulauan,Balikpapan
+ST00980,Stasiun Banjarmasin,Banjarmasin
+ST00981,Stasiun Palembang,Kotamobagu
+ST00982,Stasiun Lubuklinggau,Sibolga
+ST00983,Stasiun Kupang,Sibolga
+ST00984,Stasiun Pariaman,Surabaya
+ST00985,Stasiun Batu,Probolinggo
+ST00986,Stasiun Payakumbuh,Jayapura
+ST00987,Stasiun Tasikmalaya,Mataram
+ST00988,Stasiun Sungai Penuh,Pontianak
+ST00989,Stasiun Lubuklinggau,Banjarbaru
+ST00990,Stasiun Padang Sidempuan,Kota Administrasi Jakarta Utara
+ST00991,Stasiun Gorontalo,Pematangsiantar
+ST00992,Stasiun Lhokseumawe,Bitung
+ST00993,Stasiun Tebingtinggi,Bandung
+ST00994,Stasiun Tanjungpinang,Sungai Penuh
+ST00995,Stasiun Binjai,Payakumbuh
+ST00996,Stasiun Kota Administrasi Jakarta Timur,Semarang
+ST00997,Stasiun Langsa,Banjarmasin
+ST00998,Stasiun Singkawang,Payakumbuh
+ST00999,Stasiun Metro,Palembang
+ST01000,Stasiun Jayapura,Metro
